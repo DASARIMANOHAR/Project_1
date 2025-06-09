@@ -1,0 +1,11 @@
+open destination folder and open terminal by cmd 
+
+1.git init-------------------------------working directory
+2.git status
+3.git add code.txt [single files can add here]---------------------staging area
+4.git commit -m "commiting code file and linux commands file" [all files will commit once we run command, so add files as you need from step 3] -----------------local repository
+5.git remote add origin https://github.com/DASARIMANOHAR/Project_1
+6.git branch [to check what branches we have in remote repos]
+7.git push -u origin master-----------------------------------Remote repository
+
+once done check files are uploaded to remote repository in this location https://github.com/DASARIMANOHAR/Project_1
