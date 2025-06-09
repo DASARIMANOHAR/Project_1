@@ -1,0 +1,23 @@
+Linux commands
+
+1. Using touch (creates an empty file)
+
+touch filename.txt
+➡️ This creates a new, empty file named filename.txt.
+
+2. Using echo (adds content to the file, if already file has text also it will modify )
+echo "Hello, world!" > file.txt
+➡️ This creates file.txt and writes "Hello, world!" inside it.
+
+3. Using cat (manual input)
+cat > newfile.txt
+Then type the content and press Ctrl + D to save and exit.
+to stop command press ctrl +c
+
+4. Using nano, vim, or vi (text editors)
+nano example.txt
+Type your content
+
+Press Ctrl + O to save
+
+Press Ctrl + X to exit
