@@ -14,5 +14,5 @@ once done check files are uploaded to remote repository in this location https:/
 
 9.git log to check recent commits 
 10.git add . is used to add all files from working directory to staging 
-11. git pull works : remote repo data will come to local repo aswell as working directory
+11. git pull means remote repo data will come to local repo aswell as working directory
 12.git fetch only local repo will update but changes will not reflect to the working directory
