@@ -15,4 +15,15 @@ once done check files are uploaded to remote repository in this location https:/
 9.git log to check recent commits 
 10.git add . is used to add all files from working directory to staging 
 11. git pull means remote repo data will come to local repo aswell as working directory
+Command	                Description
+git pull	        Default fetch and merge
+git pull origin main	Pull from specific branch
+git pull --rebase	Rebase instead of merge
+git pull --all	        Pull from all remotes
+git pull --verbose	Show detailed info
+git pull --no-commit	Merge without committing
+git pull --no-ff	Force merge commit
+git pull --ff-only	Allow only fast-forward
+
 12.git fetch only local repo will update but changes will not reflect to the working directory
+13.git checkout [branchname] is used to switch between the branches
