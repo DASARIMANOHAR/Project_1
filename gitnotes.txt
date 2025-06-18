@@ -2,7 +2,7 @@ open destination folder and open terminal by cmd
 
 1.git init-------------------------------working directory
 2.git status
-3.git add code.txt [single files can add here]---------------------staging area
+3.git add code.txt [single files can add here always remember any spaces or special characters given for filename like feat-CSWE loginpage then use git add "filename"]---------------------staging area
 4.git commit -m "commiting code file and linux commands file" [all files will commit once we run command, so add files as you need from step 3] -----------------local repository
 5.git remote add origin https://github.com/DASARIMANOHAR/Project_1
 6.git branch [to check what branches we have in remote repos]
