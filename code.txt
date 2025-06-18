@@ -1,2 +1,41 @@
-mannnn
-kbkb
+Network ports are essential components of computer networking that help devices communicate over the internet or local networks
+
+What Is a Network Port?
+A network port is a virtual point where network connections start and end. Think of it like a door or channel through which data enters or leaves a device.
+
+Each port is identified by a port number, which ranges from 0 to 65535.
+
+Why Are Ports Important?
+Ports allow multiple services to run on a single device. For example:
+
+Web browsing uses port 80 (HTTP) or 443 (HTTPS).
+Email might use port 25 (SMTP) or 993 (IMAP).
+File transfer uses port 21 (FTP).
+Types of Ports
+Well-Known Ports (0–1023)
+Reserved for common services (e.g., HTTP, FTP, SSH).
+
+Registered Ports (1024–49151)
+Used by software applications that are not as universal.
+
+Dynamic/Private Ports (49152–65535)
+Used temporarily by applications for short-term communication.
+
+How Ports Work in Communication
+When a device sends data:
+
+It uses an IP address to identify the destination device.
+It uses a port number to specify the service or application on that device.
+For example:
+
+192.168.1.10:443
+This means: send data to IP 192.168.1.10 using port 443 (HTTPS).
+
+Common Port Numbers
+Port	    Protocol	 Use Case
+20/21	    FTP	       File Transfer
+22	      SSH	       Secure Shell
+25	      SMTP	     Email Sending
+53	     DNS	       Domain Name Lookup
+80	     HTTP   	    Web Browsing
+443	     HTTPS       Secure Web Browsing
