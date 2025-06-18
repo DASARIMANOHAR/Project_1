@@ -11,6 +11,7 @@ Ports allow multiple services to run on a single device. For example:
 Web browsing uses port 80 (HTTP) or 443 (HTTPS).
 Email might use port 25 (SMTP) or 993 (IMAP).
 File transfer uses port 21 (FTP).
+
 Types of Ports
 Well-Known Ports (0–1023)
 Reserved for common services (e.g., HTTP, FTP, SSH).
